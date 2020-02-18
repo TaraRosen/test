@@ -1,6 +1,7 @@
 ![Image](rm1.png)
 
-### Is there a statistically significant difference in scoring in the NBA vs. the WNBA?
+<center>Is there a statistically significant difference in scoring in the NBA vs. the WNBA? 
+</center>
 
 Everyone knows that one of the things that makes basketball so exciting to watch are dunks and alley-oops. With this  
 knowledge, one of my data science bootcamp cohort mates and I decided to do a presentation on the rim height in the NBA and 
@@ -19,9 +20,9 @@ He went on to further calculate how high the average basketball player can jump 
 a HoopsBeast study shows to be 1.33x their normal height, and vertical jump. Based on these calculations, 
 how high the average NBA or WNBA player can jump would be calculated as follows:
 
--> ## Player Reach = (standing reach *average height) + vertical jump <-
-## NBA Player Reach = (1.33 * 79.09 in.) + 28.1 in. ≈ 133.3 inches
-## WNBA Player Reach = (1.33 * 72.57 in.) + 19.0 in. ≈115.5 inches
+<center>Player Reach = (standing reach *average height) + vertical jump</center>
+<center>NBA Player Reach = (1.33 * 79.09 in.) + 28.1 in. ≈ 133.3 inches</center>
+<center>WNBA Player Reach = (1.33 * 72.57 in.) + 19.0 in. ≈115.5 inches</center>
 
 The rim in both the NBA and WNBA is 120 inches (10 feet), and in order to dunk, your fingers need to be about 6 inches 
 above the rim². This requires a reach of about 126 inches. The men naturally meet this vertical jump but the women come 
@@ -30,11 +31,11 @@ about 10 inches short.
 To look at this through a different lens, if the men were playing at a similar height disadvantage than the women 
 are playing at, they would be playing on a 11.5 foot rim (≈138.5 in):
 
-## NBA Rim Equivalent = (133.3 in. * 120) / 115.5 in. ≈138.5 in.
+<center>NBA Rim Equivalent = (133.3 in. * 120) / 115.5 in. ≈138.5 in. </center>
 
 And the women should be playing on a rim of about 8 feet, 8 inches:
 
-## WNBA Rim Equivalent = (115.5 in.*120 in.) / 133.2 in. ≈ 104 inches²
+<center>WNBA Rim Equivalent = (115.5 in.*120 in.) / 133.2 in. ≈ 104 inches²</center>
 
 Are there actual statistically significant differences in scoring between the NBA and WNBA? 
 B.G. and I wanted to explore what we considered “excitement metrics” — high scoring games, 3-pt attempts, fast breaks, clutch 
@@ -90,6 +91,10 @@ And, since its inception, 22 years ago, in 1997 the WNBA has had a total of 11 d
 ![Image](rm7.png)
 
 Sooo, unfortunately, it looks like every metric that makes a basketball game exciting, the WNBA lags behind NBA.
+
+</br>
+</br>
+</br>
 
 ¹ https://blog.usejournal.com/what-should-the-rim-height-be-in-the-wnba-3ffb339822be </br>
 ² https://slate.com/culture/2012/03/brittney-griner-dunk-why-are-there-so-few-jams-in-womens-basketball.html
