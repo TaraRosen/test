@@ -4,7 +4,7 @@
   <b>Is there a statistically significant difference in scoring in the NBA vs. the WNBA? </b>
 </p>
 
-Test Everyone knows that one of the things that makes basketball so exciting to watch are dunks and alley-oops. With this  
+Everyone knows that one of the things that makes basketball so exciting to watch are dunks and alley-oops. With this  
 knowledge, one of my data science bootcamp cohort mates and I decided to do a presentation on the rim height in the NBA and 
 WNBA and whether or not it should be lowered for the WNBA. As my partner B.G. Lemmon put it — “ in other 
 sports that both men and women play, volleyball nets are lowered by about 7 inches for women, the tee boxes 
