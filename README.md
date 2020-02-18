@@ -1,7 +1,8 @@
 ![Image](rm1.png)
 
-<center>Is there a statistically significant difference in scoring in the NBA vs. the WNBA? 
-</center>
+<p align="center">
+  <b>Is there a statistically significant difference in scoring in the NBA vs. the WNBA? </b>
+</p>
 
 Everyone knows that one of the things that makes basketball so exciting to watch are dunks and alley-oops. With this  
 knowledge, one of my data science bootcamp cohort mates and I decided to do a presentation on the rim height in the NBA and 
