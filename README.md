@@ -19,7 +19,7 @@ He went on to further calculate how high the average basketball player can jump 
 a HoopsBeast study shows to be 1.33x their normal height, and vertical jump. Based on these calculations, 
 how high the average NBA or WNBA player can jump would be calculated as follows:
 
-## Player Reach = (standing reach *average height) + vertical jump
+-> ## Player Reach = (standing reach *average height) + vertical jump <-
 ## NBA Player Reach = (1.33 * 79.09 in.) + 28.1 in. ≈ 133.3 inches
 ## WNBA Player Reach = (1.33 * 72.57 in.) + 19.0 in. ≈115.5 inches
 
@@ -47,7 +47,7 @@ an exciting game.
 So lets take a look at these metrics…
 
 Since an NBA game is 48 minutes verses 40 minutes for a WNBA game I needed to adjust the data.
-After adjustment, you can see that the NBA outscores the WNBA by about 10–11 points per 40 minutes — about 93 points 
+After adjustment, you can see that the NBA **outscores** the WNBA by about 10–11 points per 40 minutes — about 93 points 
 to 82 points.
 
 ![Image](rm3.png)
@@ -57,12 +57,12 @@ that it is not just chance that the men score more than the women but that there
 scoring more than the women.
 
 
-In 3 point attempts — the NBA attempts 3 point shots approximately 27 times per 40 minutes to 19 times per game for the women.
+In **3 point attempts** — the NBA attempts 3 point shots approximately 27 times per 40 minutes to 19 times per game for the women.
 Again, running a two sample t-test shows a very low p-value which, again, means that these results are statistically significant.
 
 ![Image](rm4.png)
 
-A fast break is when a team attempts to move the ball up court and into scoring position as quickly as possible, so that 
+A **fast break** is when a team attempts to move the ball up court and into scoring position as quickly as possible, so that 
 the defense is outnumbered and does not have time to set up.
 
 The NBA is at around 8 fast breaks per 40 minutes, while the WNBA is at 6.
@@ -70,13 +70,13 @@ Running a two sample t-test again shows a very low p-value which means that thes
 
 ![Image](rm5.png)
 
-And here we are looking at clutch time, which I defined as the last 2 minutes of a game with a score differential of 5 points or less.
+And here we are looking at **clutch time**, which I defined as the last 2 minutes of a game with a score differential of 5 points or less.
 To me, this is one of the most exciting parts of the game… it’s why people always joke that you really only ever have to 
 watch the last few minutes of a basketball game because this is where all the good stuff happens.
 
 ![Image](rm6.png)
 
-And here, there is a huge difference between the two leagues — only 16% of the games in the WNBA are what I consider tight 
+There is a huge difference between the two leagues — only 16% of the games in the WNBA are what I consider tight 
 at the end verses 44% of the men’s games.
 
 That is approximately 65 games out of the 406 WNBA games being close verses 1082 games out of 2460 games of the NBA games.
@@ -84,12 +84,12 @@ That is a huge difference.
 
 And again we see a very low p-value which means that these results are statistically significant.
 
-But a metric that has an even wider margin than clutch time is that of dunks. The NBA had over 11,000 dunks in its 2018–19 season,
+But a metric that has an even wider margin than clutch time is that of **dunks**. The NBA had over 11,000 dunks in its 2018–19 season,
 And, since its inception, 22 years ago, in 1997 the WNBA has had a total of 11 dunks. 11… over 22 years. By a total of 6 women.
 
 ![Image](rm7.png)
 
 Sooo, unfortunately, it looks like every metric that makes a basketball game exciting, the WNBA lags behind NBA.
 
-¹ https://blog.usejournal.com/what-should-the-rim-height-be-in-the-wnba-3ffb339822be
+¹ https://blog.usejournal.com/what-should-the-rim-height-be-in-the-wnba-3ffb339822be </br>
 ² https://slate.com/culture/2012/03/brittney-griner-dunk-why-are-there-so-few-jams-in-womens-basketball.html
