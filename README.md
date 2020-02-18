@@ -56,18 +56,19 @@ Running a two sample t-test shows a very low p-value which means that these resu
 that it is not just chance that the men score more than the women but that there is a reason that the men are 
 scoring more than the women.
 
-![Image](rm4.png)
 
 In 3 point attempts — the NBA attempts 3 point shots approximately 27 times per 40 minutes to 19 times per game for the women.
 Again, running a two sample t-test shows a very low p-value which, again, means that these results are statistically significant.
 
-![Image](rm5.png)
+![Image](rm4.png)
 
 A fast break is when a team attempts to move the ball up court and into scoring position as quickly as possible, so that 
 the defense is outnumbered and does not have time to set up.
 
 The NBA is at around 8 fast breaks per 40 minutes, while the WNBA is at 6.
 Running a two sample t-test again shows a very low p-value which means that these results are statistically significant.
+
+![Image](rm5.png)
 
 And here we are looking at clutch time, which I defined as the last 2 minutes of a game with a score differential of 5 points or less.
 To me, this is one of the most exciting parts of the game… it’s why people always joke that you really only ever have to 
